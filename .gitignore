@@ -3,3 +3,9 @@
 ################################################################################
 
 /Project/GUI/obj/Debug
+/Project/packages
+/Project/UnitTests/obj/Debug
+/Project/Simulator/obj/Debug
+/Project/Simulator/bin/Debug
+/Project/GUI/bin/Debug
+/Project/.vs/Project/v15
